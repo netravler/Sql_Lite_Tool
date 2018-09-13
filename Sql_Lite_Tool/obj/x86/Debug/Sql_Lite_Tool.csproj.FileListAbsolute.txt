@@ -1,0 +1,8 @@
+c:\users\pheintz\documents\visual studio 2010\Projects\Sql_Lite_Tool\Sql_Lite_Tool\bin\Debug\Sql_Lite_Tool.exe
+c:\users\pheintz\documents\visual studio 2010\Projects\Sql_Lite_Tool\Sql_Lite_Tool\bin\Debug\Sql_Lite_Tool.pdb
+c:\users\pheintz\documents\visual studio 2010\Projects\Sql_Lite_Tool\Sql_Lite_Tool\obj\x86\Debug\Sql_Lite_Tool.Form1.resources
+c:\users\pheintz\documents\visual studio 2010\Projects\Sql_Lite_Tool\Sql_Lite_Tool\obj\x86\Debug\Sql_Lite_Tool.Properties.Resources.resources
+c:\users\pheintz\documents\visual studio 2010\Projects\Sql_Lite_Tool\Sql_Lite_Tool\obj\x86\Debug\Sql_Lite_Tool.csproj.GenerateResource.Cache
+c:\users\pheintz\documents\visual studio 2010\Projects\Sql_Lite_Tool\Sql_Lite_Tool\obj\x86\Debug\Sql_Lite_Tool.exe
+c:\users\pheintz\documents\visual studio 2010\Projects\Sql_Lite_Tool\Sql_Lite_Tool\obj\x86\Debug\Sql_Lite_Tool.pdb
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\Sql_Lite_Tool\Sql_Lite_Tool\obj\x86\Debug\Sql_Lite_Tool.csprojResolveAssemblyReference.cache
